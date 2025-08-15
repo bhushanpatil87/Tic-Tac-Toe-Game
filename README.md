@@ -79,6 +79,11 @@ f
 
 **📸 Screenshots**
 ----------------
+<img width="1919" height="864" alt="Screenshot 2025-08-15 230531" src="https://github.com/user-attachments/assets/d92b0e6d-fcdb-4bd5-b3ea-64624b00db14" />
+<img width="1895" height="867" alt="Screenshot 2025-08-15 230546" src="https://github.com/user-attachments/assets/cdeb271a-b368-4605-8f57-74df550bf8b2" />
+<img width="1897" height="866" alt="Screenshot 2025-08-15 230604" src="https://github.com/user-attachments/assets/a7c24e63-c85f-4da1-a51d-488967d6f295" />
+<img width="1896" height="865" alt="Screenshot 2025-08-15 231752" src="https://github.com/user-attachments/assets/3e92d74d-dda5-48d0-8b5f-af640cf5d394" />
+<img width="1917" height="867" alt="Screenshot 2025-08-15 230516" src="https://github.com/user-attachments/assets/a53907a4-ee0a-4662-aecc-e4ae55f15136" />
 
 [Insert screenshots of the game in action]
 

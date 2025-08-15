@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding:0;
@@ -86,4 +87,94 @@ td,th,tr{
     font-weight: bolder;
     font-family: 'Times New Roman';
     font-style: italic;
+=======
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.scoreboard{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table{
+    width: 290px;
+    background-color: rgb(77, 154, 129);
+    height: 60px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgb(43, 226, 128);
+    border-radius: 1rem;
+}
+td,th,tr{
+    width: 180px;
+    border-radius: 1rem;
+}
+
+.container{
+    height: 70vh;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    
+}
+
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5vmin;
+}
+.box{
+  height: 18vmin;
+  width: 18vmin;
+  border:none;
+  border-radius: 1rem;
+  box-shadow: 0px 0px 5px blueviolet;
+  font-size: 8vmin;
+  color:rgb(44, 86, 88);
+  background-color: cornflowerblue;
+}
+#reset-btn{
+    height: 8vmin;
+    width: 18vmin;
+    border:none;
+    border-radius: 9px;
+    box-shadow: 0px 0px 5px blueviolet;
+    color:rgb(9, 9, 9);
+    background-color: rgb(165, 101, 224);
+}
+.new-btn{
+    height: 8vmin;
+    width: 18vmin;
+    border:none;
+    border-radius: 9px;
+    box-shadow: 0px 0px 5px blueviolet;
+    color:rgb(9, 9, 9);
+    background-color: rgb(165, 101, 224);
+    margin-top: 10%;
+    font-weight: 900;
+    margin-bottom: 50%;
+}
+.hide{
+    display: none;
+}
+
+#msg{
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Times New Roman';
+    font-style: italic;
+>>>>>>> 15795ab1fae2579665da1bb9b70312a87163916d
  }

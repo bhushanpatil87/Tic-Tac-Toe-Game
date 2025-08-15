@@ -132,7 +132,6 @@ const resetScores = () => {
 // Event listeners for buttons
 newGameBtn.addEventListener("click", resetGame); // Resets only the game board and starts with Player 0
 resetBtn.addEventListener("click", resetScores); // Resets the scores and the game board
-=======
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector(".rest-btn");
 let newGameBtn = document.querySelector(".new-btn");
@@ -267,4 +266,4 @@ const resetScores = () => {
 // Event listeners for buttons
 newGameBtn.addEventListener("click", resetGame); // Resets only the game board and starts with Player 0
 resetBtn.addEventListener("click", resetScores); // Resets the scores and the game board
->>>>>>> 15795ab1fae2579665da1bb9b70312a87163916d
+
